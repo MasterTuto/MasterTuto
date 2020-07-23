@@ -1,4 +1,14 @@
-### Hi there 👋
+## Oi, como vai? Fique a vontade 👋
+
+### :man: Eu
+
+Talvez programador? Talvez estudante? Talvez um vagabundo. Ando por aí, vivendo rindo de imagens e vídeos pela internet.
+
+### :book: Leituras
+
+Já nem sei mais do que gosto de ler, mas já li Edgar Allan Poe, Fernando Pessoa, Vinícius de Moraes, Schopenhauer, Nietzsche e muitos outros livros. Me recomende um, por falar nisso.
+
+Ah, sou proprietário de um Kindle (básico, 10ª geração), que me acompanha matinalmente nas minhas leituras.
 
 <!--
 **MasterTuto/MasterTuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
