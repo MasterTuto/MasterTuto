@@ -1,14 +1,25 @@
-## Oi, como vai? Fique a vontade 👋
+## Programador
 
-### :man: Eu
+### 👨 Eu
 
-Talvez programador? Talvez estudante? Talvez um vagabundo. Ando por aí, vivendo rindo de imagens e vídeos pela internet.
+Estudo Ciência da Computação, na UESB. Tenho interesse por web scrapping, desenvolvimento mobile e resolver problemas lógicos, seja de programação ou do mundo real (desde que a solução envolva computadores).
 
-### :book: Leituras
+### 🌟 Interesses
 
-Já nem sei mais do que gosto de ler, mas já li Edgar Allan Poe, Fernando Pessoa, Vinícius de Moraes, Schopenhauer, Nietzsche e muitos outros livros. Me recomende um, por falar nisso.
+👉 Matemática, lógica e teoria no geral
+👉 React Native
+👉 Python (Django, Requests, BeautifulSoup, Selenium)
+👉 Angular
 
-Ah, sou proprietário de um Kindle (básico, 10ª geração), que me acompanha matinalmente nas minhas leituras.
+### 💡 Sobre o que eu já sei
+
+👉 WebScrapping (usando ferramentas em Python ou o que for melhor para o problema)
+👉 Angular
+👉 Java e JavaFX
+👉 React Native
+
+
+
 
 <!--
 **MasterTuto/MasterTuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
