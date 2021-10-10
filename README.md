@@ -6,17 +6,17 @@ Estudo Ciência da Computação, na UESB. Tenho interesse por web scrapping, des
 
 ### 🌟 Interesses
 
-👉 Matemática, lógica e teoria no geral
-👉 React Native
-👉 Python (Django, Requests, BeautifulSoup, Selenium)
-👉 Angular
+👉 Matemática, lógica e teoria no geral  
+👉 React Native  
+👉 Python (Django, Requests, BeautifulSoup, Selenium)  
+👉 Angular  
 
 ### 💡 Sobre o que eu já sei
 
-👉 WebScrapping (usando ferramentas em Python ou o que for melhor para o problema)
-👉 Angular
-👉 Java e JavaFX
-👉 React Native
+👉 WebScrapping (usando ferramentas em Python ou o que for melhor para o problema)  
+👉 Angular  
+👉 Java e JavaFX  
+👉 React Native  
 
 
 
