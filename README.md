@@ -18,14 +18,14 @@ I love to build things and see things being created. Constatly evolving.
 - Spring Boot
 - SWI-Prolog
 
-### Readings
+## Readings 📖
 
-## Current readings...
+### Current readings...
 
 - Postgres Internals
 - The Pragmatic Programmer
 
-## Already read
+### Already read
 
 _Empty_
 
