@@ -1,38 +1,34 @@
-## Programador
+## Programmer in General
 
-### 👨 Eu
+I love to build things and see things being created. Constatly evolving.
 
-Estudo Ciência da Computação, na UESB. Tenho interesse por web scrapping, desenvolvimento mobile e resolver problemas lógicos, seja de programação ou do mundo real (desde que a solução envolva computadores).
+<3 Computer Science
 
-### 🌟 Interesses
+### Programming Languages and Frameworks I have worked with
 
-👉 Matemática, lógica e teoria no geral  
-👉 React Native  
-👉 Python (Django, Requests, BeautifulSoup, Selenium)  
-👉 Angular  
+- Java
+- JavaScript
+- TypeScript
+- Python
+- Angular
+- Quarkus
+- Postgres
+- Selenium
+- React
+- Spring Boot
+- SWI-Prolog
 
-### 💡 Sobre o que eu já sei
+### Readings
 
-👉 WebScrapping (usando ferramentas em Python ou o que for melhor para o problema)  
-👉 Angular  
-👉 Java e JavaFX  
-👉 React Native  
+## Current readings...
+
+- Postgres Internals
+- The Pragmatic Programmer
+
+## Already read
+
+_Empty_
+
+[LinkedIn](https://www.linkedin.com/in/brenodasilva547/) | [X](https://twitter.com/bremocs) | [email](mailto:brenocarvalho2011@gmail.com) | [Website](https://mastertuto.github.io/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastertuto&size_weight=0.5&count_weight=0.5)
-
-
-
-<!--
-**MasterTuto/MasterTuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
