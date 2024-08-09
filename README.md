@@ -36,6 +36,7 @@ _Empty_
 #### Reads
 
 - [A Web Developer’s Guide to Browser Caching](https://medium.com/@steelcityamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
+- [Command Query Separation, _Martin Fowler_](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 
 [LinkedIn](https://www.linkedin.com/in/brenodasilva547/) | [X](https://twitter.com/bremocs) | [email](mailto:brenocarvalho2011@gmail.com) | [Website](https://mastertuto.github.io/)
 
