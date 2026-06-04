@@ -25,11 +25,10 @@ I love to build things and see things being created. Constatly evolving.
 #### Current readings...
 
 - Postgres Internals
-- The Pragmatic Programmer
 
 #### Already read
 
-_Empty_
+- The Pragmatic Programmer
 
 ### Articles
 
@@ -38,7 +37,5 @@ _Empty_
 - [A Web Developer’s Guide to Browser Caching](https://medium.com/@steelcityamir/a-web-developers-guide-to-browser-caching-cc41f3b73e7c)
 - [Command Query Separation, _Martin Fowler_](https://martinfowler.com/bliki/CommandQuerySeparation.html)
 
-[LinkedIn](https://www.linkedin.com/in/brenodasilva547/) | [X](https://twitter.com/bremocs) | [email](mailto:brenocarvalho2011@gmail.com) | [Website](https://mastertuto.github.io/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastertuto&size_weight=0.5&count_weight=0.5)
+[LinkedIn](https://www.linkedin.com/in/brenodasilva547/) | [X](https://twitter.com/bremocs) | [email](mailto:brenocarvalho2011@gmail.com) | [Website](https://brenocs.dev.br/)
 
